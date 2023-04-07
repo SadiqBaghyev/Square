@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculation of perimeter, area, rhombus of a square/1.0.0": {
+        "runtime": {
+          "Calculation of perimeter, area, rhombus of a square.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculation of perimeter, area, rhombus of a square/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
